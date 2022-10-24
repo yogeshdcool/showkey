@@ -3,6 +3,7 @@
 
 A tool to display keybindings/hotkeys
 
+# This project is not fully finished
 
 ## Installation
 
@@ -21,7 +22,7 @@ A tool to display keybindings/hotkeys
 
 ## Screenshots
 Rofi
-![Rofi](https://raw.githubusercontent.com/yogeshdcool/showkey/images/rofi.png)  
+![Rofi](https://raw.githubusercontent.com/yogeshdcool/showkey/misc/screenshots/rofi.png)  
 Dmenu  
-![Dmenu](https://raw.githubusercontent.com/yogeshdcool/showkey/images/dmenu.png)
+![Dmenu](https://raw.githubusercontent.com/yogeshdcool/showkey/misc/screenshots/dmenu.png)
 
